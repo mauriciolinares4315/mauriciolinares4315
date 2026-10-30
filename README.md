@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Banner de Mauricio Linares" width="100%">
+  <img src="banner_mauricio.jpg" alt="Banner de Mauricio Linares" width="100%">
 </p>
 
 <h2 align="center">¡Hola 👋, soy Mauricio Linares!</h2>
