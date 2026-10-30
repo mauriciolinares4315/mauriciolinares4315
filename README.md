@@ -1,5 +1,5 @@
 <img width="2752" height="1039" alt="Gemini_Generated_Image_s388hts388hts388" src="https://github.com/user-attachments/assets/a9b9a871-8ea2-4b01-bee0-9a034abf83a7" />
-## Hi there 👋
+
 
 <!--
 **mauriciolinares4315/mauriciolinares4315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
