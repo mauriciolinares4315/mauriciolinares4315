@@ -3,7 +3,6 @@
 </p>
 
 <h2 align="center">¡Hola 👋, soy Mauricio Linares!</h2>
-<p align="center">¡Bienvenido a mi perfil!</p>
 
 <hr>
 
